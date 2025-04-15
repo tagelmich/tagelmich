@@ -18,7 +18,7 @@
     <th style="width: 20%;">Стек</th>
   </tr>
   <tr>
-    <td><a href="https://clck.ru/3LSq75">Анализ продаж маркетплейса</a></td>
+    <td><a href="(https://github.com/tagelmich/marketplace_sales_analysis)">Анализ продаж маркетплейса</a></td>
     <td> Выбор, расчет продуктовых метрик (Retention, Conversion Rate, ARPPU и др.). Когортный анализ и определение product/market fit у продукта. Оценка гипотез для дальнейшей работы с помощью фреймворка ICE. </td>
     <td>pandas,numpy,seaborn, matplotlib,scipy,requests</td>
   </tr>
