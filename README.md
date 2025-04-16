@@ -34,7 +34,7 @@
   </tr>
   </tr>
     <tr>
-    <td><a href="https://clck.ru/3LSq75"> Решение задач по SQL </a></td>
+    <td><a href="https://github.com/tagelmich/SQL"> Решение задач по SQL </a></td>
     <td> Выполнила 3 задачи, демонстрирующие навыки работы с SQL: Группировка и агрегатные функции, объединение таблиц,подзапросы, оконные функции </td>
     <td>PostgreSQL, Redash </td>
   </tr>
