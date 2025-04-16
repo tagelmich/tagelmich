@@ -20,7 +20,12 @@
   <tr>
     <td><a href="https://github.com/tagelmich/marketplace_sales_analysis">Анализ продаж маркетплейса</a></td>
     <td> Выбор, расчет продуктовых метрик (Retention, Conversion Rate, ARPPU и др.). Когортный анализ и определение product/market fit у продукта. Оценка гипотез для дальнейшей работы с помощью фреймворка ICE. </td>
-    <td>pandas,numpy,seaborn, matplotlib,scipy,requests</td>
+    <td> pandas, numpy, seaborn, matplotlib, scipy.stats, requests </td>
+  </tr>
+  <tr>
+    <td><a href="https://clck.ru/3LUDbV">Анализ результатов A/B-теста учебной платформы</a></td>
+    <td> Выбор, рассчет основных показателей для оценки результативности (CR, ARPPU), сравнение показателей двух групп с применением статистических тестов (chi-квадрат, тест Колмогорова - Смирнова, T-тест Уэлча)
+    <td> pandas, numpy, seaborn, matplotlib, scipy.stats, requests </td>
   </tr>
     <tr>
     <td><a href="https://clck.ru/3LSq75">Дашборд для службы поддержки</a></td>
