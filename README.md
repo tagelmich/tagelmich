@@ -57,5 +57,5 @@
 
 <br>
 
-🔹 Для связи: https://t.me/tagelmich <br>
+🔹 Для связи: https://t.me/filel23 <br>
 
